@@ -94,14 +94,17 @@
       {
         "Source": "Internet Movie Database",
         "Value": "8.6/10"
+
       },
       {
         "Source": "Rotten Tomatoes",
         "Value": "69%"
+
       },
       {
         "Source": "Metacritic",
         "Value": "59/100"
+        
       }
     ],
     "Metascore": "59",
