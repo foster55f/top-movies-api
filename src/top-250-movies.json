@@ -104,7 +104,7 @@
       {
         "Source": "Metacritic",
         "Value": "59/100"
-        
+
       }
     ],
     "Metascore": "59",
@@ -117,6 +117,7 @@
     "Production": "Warner Bros. Pictures",
     "Website": "N/A",
     "Response": "True"
+
   },
   "tt1950186": {
     "Title": "Ford v Ferrari",
@@ -137,10 +138,12 @@
       {
         "Source": "Internet Movie Database",
         "Value": "8.2/10"
+
       },
       {
         "Source": "Metacritic",
         "Value": "81/100"
+        
       }
     ],
     "Metascore": "81",
