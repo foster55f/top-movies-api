@@ -3,6 +3,7 @@ const express = require('express');
 const app = express();
 
 const PORT = 4000;
+
 const topMovies = require('./top-250-movies.json');
 
 app.use((req, res, next) => {
