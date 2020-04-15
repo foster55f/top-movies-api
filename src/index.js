@@ -13,6 +13,7 @@ app.use((req, res, next) => {
     next();
 });
 
+
 app.get('/', function (req, res) {
     res.send('Movie API works!');
 });
@@ -21,6 +22,7 @@ app.get('/api/movies', (req, res) => {
     const movies = Object.values(topMovies);
     res.send(movies);
 });
+
 
 app.listen(PORT, function () {
     console.log(`Movie API ready on http://localhost:${PORT}`);
