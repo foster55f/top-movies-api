@@ -20,5 +20,5 @@ app.get('/api/movies', (req, res) => {
 });
 
 app.listen(process.env.PORT, function () {
-    console.log(`Movie API ready on http://localhost:${PORT}`);
+    console.log(`Movie API ready on http://localhost:${process.env.PORT}`);
 });
